@@ -13,3 +13,7 @@ main div:first-child {
 li {
   background-color: #fff;
 }
+
+.logo {
+  width: 50%;
+}
