@@ -5,3 +5,11 @@ html {
 .nav {
   background-color: #ddd;
 }
+
+main div:first-child {
+  background-color: #efefef;
+}
+
+li {
+  background-color: #fff;
+}
