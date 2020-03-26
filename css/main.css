@@ -15,11 +15,11 @@ li, main div:last-child {
 }
 
 .logo {
-  width: 50%;
+  width: 200px;
 }
 
 table {
-  min-width: 40em;
+  width: 40em;
 }
 
 @media only screen and (min-width: 60em) {
