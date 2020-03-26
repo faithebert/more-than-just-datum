@@ -18,6 +18,10 @@ li, main div:last-child {
   width: 50%;
 }
 
+table {
+  min-width: 40em;
+}
+
 @media only screen and (min-width: 60em) {
 
   .table-wrapper {
