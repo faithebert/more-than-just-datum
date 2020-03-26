@@ -19,7 +19,7 @@ li, main div:last-child {
 }
 
 table {
-  width: 40em;
+  width: 50em;
 }
 
 @media only screen and (min-width: 60em) {
